@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 some information change in home 0001
 change in home 0003
 change in home 0005
+=======
+some information change in home 0001
+change in company 0002
+change in company 0003
+>>>>>>> 261e45efbc4d823af6cd6298a09100297a3e1d6d
