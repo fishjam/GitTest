@@ -1,12 +1,2 @@
 add info before add
 change test4 between commit and push
-
-
-
-
-
-
-
-check whether this will commit (stage => change => commit <not stage again> )
-
-change after commit
