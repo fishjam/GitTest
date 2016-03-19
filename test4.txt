@@ -1,2 +1,3 @@
 add info before add
 change test4 between commit and push
+test git diff for index
