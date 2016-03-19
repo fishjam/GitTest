@@ -2,3 +2,4 @@ add file from web
 edit web file on web after pull
 change after web change => then commit
 change on web after fetch->conflit->resolve
+change local after fetch and pull
